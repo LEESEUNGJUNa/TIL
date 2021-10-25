@@ -3,7 +3,7 @@
 곧있으면 실전프로젝트가 있어서 예외에 대해서 공부해봤다.
 
 일단 예외클래스가 있는데 구조는 밑에 사진과 같다.
-<img src="C:\Users\LSJ28\OneDrive\바탕 화면\21476F3E577E91080E.jpg"/>
+<img src="https://t1.daumcdn.net/cfile/tistory/21476F3E577E91080E"/>
 저기서 Error는 OverFlow나 메모리부족과 같은 그런.. 치명적인 오류이고 Exception은 발생하더라도 수습될수있는 정도의 오류라고한다.
 그리고 checked Exception은 반드시 예외처리를 해줘야하는 예외들이고 Unchecked 는 안해도 되는 예외라고한다.
 
